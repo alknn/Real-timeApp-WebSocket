@@ -1,0 +1,8 @@
+C:\Users\Umit Ozdemir\source\repos\ws.Client\bin\Debug\ws.Client.exe.config
+C:\Users\Umit Ozdemir\source\repos\ws.Client\bin\Debug\ws.Client.exe
+C:\Users\Umit Ozdemir\source\repos\ws.Client\bin\Debug\ws.Client.pdb
+C:\Users\Umit Ozdemir\source\repos\ws.Client\obj\Debug\ws.Client.csproj.AssemblyReference.cache
+C:\Users\Umit Ozdemir\source\repos\ws.Client\obj\Debug\ws.Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Umit Ozdemir\source\repos\ws.Client\obj\Debug\ws.Client.csproj.CoreCompileInputs.cache
+C:\Users\Umit Ozdemir\source\repos\ws.Client\obj\Debug\ws.Client.exe
+C:\Users\Umit Ozdemir\source\repos\ws.Client\obj\Debug\ws.Client.pdb
